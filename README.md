@@ -5,4 +5,4 @@ Colloid Lavanda Dark theme is Colloid Dark theme with Lavanda Dark primary color
 
 # Installation
 - copy/put Lavanda-Colloid-Dark-Theme folder to /usr/share/themes directory :
-- ```sudo cp -R Lavanda-Colloid-Dark-Theme /usr/share/themes/```
+- ```sudo cp -R Colloid-Lavanda-Dark-Theme /usr/share/themes/```
